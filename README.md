@@ -219,7 +219,7 @@ This configuration file holds user interface key bindings. Default content:
     up=KEY_UP
 
 Refer to function UiKeyConfig::GetKeyCode() in
-[uikeyconfig.cpp](https://github.com/x0x/proton/src/uikeyconfig.cpp)
+[uikeyconfig.cpp](https://github.com/x0x/proton/tree/main/src/uikeyconfig.cpp)
 for a list of supported key names to use in the config file. Alternatively
 key codes may be entered in hex format (e.g. 0x9).
 
